@@ -1,3 +1,6 @@
+### 概要
+browser-useをheadlessモード使って問い合わせを行うAPIサーバー
+
 ### 環境構築
 ```
 uvx playwright install
